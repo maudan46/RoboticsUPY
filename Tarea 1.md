@@ -1,6 +1,6 @@
 ﻿# Primer doc por código
 
-### Esto es una prueba de heading utilizando ##
+### Esto es una prueba de heading utilizando <code> ##
 Aqui termina la prueba jsjs
 ### Formato y mas cosas cool
 Otra cosa cool es aumentar el color negro de las palabras *de* **esta** ***forma***, esto se hace utilizando 1, 2 o hasta 3 asteríscos al inicio y final de la palabra en cuestón
